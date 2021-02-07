@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.music.jazzfox"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "JazzFox",
+    "packageName": "com.music.jazzfox",
+    "packageFolder": "com/music/jazzfox",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "ZmQ1NDNlZDJlMmZkYzViZGI1ZjI4MGE5ZTBjODk5ZDAzMDc0MTcwMWYwNDEwODBhMmVjNDYxODZmOTc2MzljNTY5MTA1ZWFmMzZjZTQ4NmNjNzA4ZmRjYzliNmI3OTJiYjg0NzAzMGUwMWFlNjE3NGIzMTJhNDBkMTU4OGNkZTg=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1612719860258,
+    "testFrameworks": ["cucumber"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
